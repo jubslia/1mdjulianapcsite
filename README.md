@@ -20,7 +20,7 @@
 <body>
     <h1>Bem-vindo ao Meu Site!</h1>
     <p>Aqui está um vídeo interessante:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/28iW_O5qWfU?si=5XsCdWv2pmZGM-Xa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+"https://www.youtube.com/embed/28iW_O5qWfU?si=5XsCdWv2pmZGM-Xa" 
 
     <p>Mais conteúdo aqui...</p>
 </body>
