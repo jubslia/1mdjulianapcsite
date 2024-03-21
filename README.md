@@ -9,4 +9,19 @@
     <p>A polinização é um processo vital para a reprodução de muitas plantas, pois permite a transferência de pólen de uma flor para outra, facilitando a formação de frutos e sementes. As borboletas desempenham um papel importante nesse processo, visitando flores para coletar néctar e polen, contribuindo para a diversidade genética das plantas e, consequentemente, para a biodiversidade global.</p>
     <p>Além disso, as borboletas são importantes para a ecologia e a conservação, pois muitas espécies são indicadoras de saúde dos ecossistemas. A perda de habitats naturais e a poluição estão entre as principais ameaças às populações de borboletas, destacando a importância de ações de conservação.</p>
 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site</title>
+</head>
+<body>
+    <h1>Bem-vindo ao Meu Site!</h1>
+    <p>Aqui está uma imagem de uma borboleta:</p>
+    <img src="borboleta.jpg" alt="Uma borboleta colorida">
+    <p>Mais conteúdo aqui...</p>
+</body>
+</html>
+
     
