@@ -15,7 +15,6 @@
     <title>Meu Site</title>
 </head>
 <body>
-    <h1>Bem-vindo ao Meu Site!</h1>
     <p>Aqui está um vídeo interessante:</p>
     https://www.youtube.com/embed/28iW_O5qWfU?si=5XsCdWv2pmZGM-Xa
     
