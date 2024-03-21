@@ -18,9 +18,8 @@
     <title>Meu Site</title>
 </head>
 <body>
-    <h1>Bem-vindo ao Meu Site!</h1>
-    <p>Aqui está uma imagem de uma borboleta:</p>
-    <img src=https://youtu.be/28iW_O5qWfU?si=ZyoxD8YV-6O95B7w alt="borboleta">
+
+    <vid src=https://youtu.be/28iW_O5qWfU?si=ZyoxD8YV-6O95B7w alt="borboleta">
     <p>Mais conteúdo aqui...</p>
 </body>
 </html>
