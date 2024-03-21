@@ -10,6 +10,7 @@
     <p>Além disso, as borboletas são importantes para a ecologia e a conservação, pois muitas espécies são indicadoras de saúde dos ecossistemas. A perda de habitats naturais e a poluição estão entre as principais ameaças às populações de borboletas, destacando a importância de ações de conservação.</p>
 </body>
 </html>
+</html> <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
