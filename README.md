@@ -11,7 +11,7 @@
 </body>
 </html>
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,8 +19,11 @@
 </head>
 <body>
     <h1>Bem-vindo ao Meu Site!</h1>
-    <p>Aqui está uma imagem de uma borboleta:</p>
-    <img src="https://images.app.goo.gl/nt8HswrfyG5Uuego8" alt="Uma borboleta colorida">
+    <p>Aqui está um vídeo interessante:</p>
+
+    <!-- Incorporação do Vídeo do YouTube -->
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/28iW_O5qWfU?si=5XsCdWv2pmZGM-Xa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
     <p>Mais conteúdo aqui...</p>
 </body>
 </html>
