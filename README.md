@@ -12,7 +12,7 @@
 <head>
 
     <h1>Aqui está um vídeo interessante:</h1>
- "https://www.youtube.com/embed/28iW_O5qWfU?si=5XsCdWv2pmZGM-Xa" 
+https://youtu.be/28iW_O5qWfU?si=ZyoxD8YV-6O95B7w
     
 </body>
 </html>
