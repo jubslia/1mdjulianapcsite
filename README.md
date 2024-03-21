@@ -18,9 +18,4 @@
     <title>Meu Site</title>
 </head>
 <body>
-
-    <vid src=https://youtu.be/28iW_O5qWfU?si=ZyoxD8YV-6O95B7w alt="borboleta">
-    <p>Mais conteúdo aqui...</p>
-</body>
-</html>
-
+VIDEO_https://youtu.be/28iW_O5qWfU?si=ZyoxD8YV-6O95B7w
