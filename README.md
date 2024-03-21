@@ -11,13 +11,4 @@
 </body>
 <head>
    <script>
-    var qrcode = ![qrcode_i ytimg com](https://github.com/jubslia/borboleta/assets/148456500/73f9589b-c5cc-4bc4-bba2-d48f3a118760)
-
-        text: "https://www.example.com",
-        width: 128,
-        height: 128,
-        colorDark : "#000000",
-        colorLight : "#ffffff",
-        correctLevel : QRCode.CorrectLevel.H
-    });
-</script>
+    
