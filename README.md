@@ -16,6 +16,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meu Site</title>
+    ![qrcode_i ytimg com](https://github.com/jubslia/borboleta/assets/148456500/368a50ed-cb29-483d-8d10-94487affce9d)
+
 </head>
 <body>
-VIDEO_https://youtu.be/28iW_O5qWfU?si=ZyoxD8YV-6O95B7w
+
